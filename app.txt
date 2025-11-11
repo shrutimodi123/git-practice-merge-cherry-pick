@@ -1,1 +1,1 @@
-Feature A change in app
+Feature B changed app.txt
